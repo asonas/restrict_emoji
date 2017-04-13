@@ -25,7 +25,6 @@ Or install it yourself as:
 ``` ruby
 s = "hello world 🙆"
 s.restrict_emoji
-s.restrict_emoji!
 ```
 
 ## Development
